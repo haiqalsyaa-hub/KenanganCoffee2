@@ -1,0 +1,18 @@
+// Kenangan Coffee Assistant - LDCW6123 Group Project Part 2
+// Note: prices are sample prices for demonstration
+#include <iostream>
+#include <iomanip>
+#include <string>
+using namespace std;
+
+int main() {
+    cout << "=== Welcome to Kenangan Coffee ===" << endl;
+
+    cout << "----- MENU (RM) -----" << endl;
+    cout << "1. Kenangan Latte    9.90" << endl;
+    cout << "2. Avocado Coffee   12.90" << endl;
+    cout << "3. Iced Americano    7.90" << endl;
+    cout << "4. Milk Tea          8.90" << endl;
+    cout << "5. Chocolate Latte  10.90" << endl;
+    return 0;
+}
